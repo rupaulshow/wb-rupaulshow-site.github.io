@@ -7,6 +7,10 @@ a {
   color: #e9194a;
   text-decoration: none;
 }
+a:hover,
+a:active {
+  color: #a60030;
+}
 .container-fluid {
   padding-right: 0;
   padding-left: 0;
