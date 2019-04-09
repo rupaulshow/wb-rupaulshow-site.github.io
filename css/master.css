@@ -3,6 +3,10 @@ body {
   height: 100%;
   font-family: 'Montserrat', sans-serif;
 }
+a {
+  color: #e9194a;
+  text-decoration: none;
+}
 .container-fluid {
   padding-right: 0;
   padding-left: 0;
