@@ -7,7 +7,7 @@ body {
   padding-left: 0;
 }
 .content {
-  background-image: url(imgs/bg.jpg);
+  background-image: url(/imgs/bg.jpg);
   background-repeat: no-repeat;
   background-position: top left;
   background-attachment: fixed;
