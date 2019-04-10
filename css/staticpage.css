@@ -33,6 +33,9 @@
     margin-right: 15px;
     padding: 25px 10px;
   }
+  .page-header .logo {
+    margin-left: 15px;
+  }
   .page-title h1 {
     font-size: 1.75rem;
   }
