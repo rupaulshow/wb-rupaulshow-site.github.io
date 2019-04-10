@@ -59,6 +59,14 @@ a:active {
   font-weight: bolder;
 }
 @media (min-width: 0px) and (max-width: 767.98px) {
+  h1 {
+    font-size: 1.75rem;
+  }
+  h3 {
+    font-size: 1.25rem;
+  }
+
+
   .contents {
     position: unset !important;
   }
